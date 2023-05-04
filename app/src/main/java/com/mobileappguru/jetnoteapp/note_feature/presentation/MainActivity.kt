@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalAnimationApi::class)
 
-package com.mobileappguru.jetnoteapp
+package com.mobileappguru.jetnoteapp.note_feature.presentation
 
 import AddEditNoteScreen
 import android.os.Bundle
