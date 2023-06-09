@@ -23,10 +23,9 @@ Key features and concepts covered in this project:
 - Testing Jetpack Compose components using the androidx.compose.ui.test library.
 
 ## Features
-- Feature 1: [Describe a notable feature of your app]
-- Feature 2: [Describe another notable feature]
-- ...
-
+- Create a Note: Add new notes with a title and content.
+- Update a Note: Edit the title and content of an existing note.
+- Delete a Note: Remove a note from the app.
 ## Installation
 To run the project locally, follow these steps:
 
